@@ -13,11 +13,6 @@ public class TransaksiPengisian1221 {
 
     public void tampilkanTransaksi() {
         System.out.println(kendaraan.platNomor + " : Rp " + totalBayar);
-        // kendaraan.tampilkanInformasi();
-        // System.out.println("Jenis BBM : " + bbm.namaBBM);
-        // System.out.println("Liter     : " + liter);
-        // System.out.println("Harga/Ltr : " + bbm.hargaPerliter);
-        // System.out.println("Total Bayar: Rp " + totalBayar);
         System.out.println("================================");
     }
 }
