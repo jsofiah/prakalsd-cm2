@@ -26,7 +26,6 @@ public class QueueTransaksi1221 {
             System.out.println("Belum ada transaksi.");
             return;
         }
-        // System.out.println("=== Riwayat Transaksi Pengisian BBM ===");
         int i = front;
         for (int j = 0; j < size; j++) {
             data[i].tampilkanTransaksi();
